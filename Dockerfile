@@ -1,4 +1,5 @@
 #You can change this base image to anything else
+# But make sure to use the correct version of Java
 FROM node:12.2.0-alpine
 WORKDIR app
 COPY . .
