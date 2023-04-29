@@ -8,6 +8,6 @@ npm install
 
 node app.js
 
-# follow my blog for EKS deployment
+
 
 
